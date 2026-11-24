@@ -1,0 +1,21 @@
+order_id,order_date,city,zone,platform,category,payment_mode,order_amount_inr,delivery_mins,delivery_fee_inr,status
+ORD1001,2026-01-05,Hyderabad,Madhapur,Swiggy Instamart,Groceries & Dairy,UPI,640.0,22,45.0,Delivered
+ORD1002,2026-01-05,Hyderabad,Gachibowli,Zepto,Beverages & Snacks,UPI,310.0,14,25.0,Delivered
+ORD1003,2026-01-06,Bengaluru,Koramangala,Blinkit,Personal Care,Card,890.0,31,0.0,Delivered
+ORD1004,2026-01-06,Hyderabad,Ameerpet,Swiggy Instamart,Fruits & Vegetables,Cash,-180.0,19,30.0,Returned
+ORD1005,2026-01-07,Chennai,T. Nagar,Zepto,Groceries & Dairy,UPI,1250.0,28,0.0,Delivered
+ORD1006,2026-01-08,Hyderabad,Kondapur,Blinkit,Household Essentials,UPI,540.0,52,35.0,Late
+ORD1007,2026-01-09,Bengaluru,Indiranagar,Swiggy Instamart,Beverages & Snacks,Wallet,,18,20.0,Delivered
+ORD1008,2026-01-10,Pune,Hinjewadi,Zepto,Groceries & Dairy,UPI,780.0,24,15.0,Delivered
+ORD1009,2026-01-11,Hyderabad,Madhapur,Blinkit,Fruits & Vegetables,UPI,420.0,48,30.0,Late
+ORD1010,2026-01-12,Chennai,Velachery,Swiggy Instamart,Personal Care,Card,1120.0,21,0.0,Delivered
+ORD1011,2026-01-13,Bengaluru,Whitefield,Zepto,Household Essentials,UPI,960.0,35,20.0,Delivered
+ORD1012,2026-01-14,Hyderabad,Banjara Hills,Swiggy Instamart,Groceries & Dairy,UPI,1480.0,25,0.0,Delivered
+ORD1013,2026-01-15,Pune,Kothrud,Blinkit,Beverages & Snacks,Cash,275.0,16,25.0,Delivered
+ORD1014,2026-01-16,Hyderabad,Gachibowli,Zepto,Personal Care,UPI,690.0,41,30.0,Late
+ORD1015,2026-01-17,Chennai,Adyar,Blinkit,Groceries & Dairy,UPI,830.0,20,15.0,Delivered
+ORD1016,2026-01-18,Bengaluru,Koramangala,Swiggy Instamart,Fruits & Vegetables,UPI,390.0,15,20.0,Delivered
+ORD1017,2026-01-19,Hyderabad,Kondapur,Swiggy Instamart,Household Essentials,Card,1050.0,27,0.0,Delivered
+ORD1018,2026-01-20,Pune,Hinjewadi,Swiggy Instamart,Beverages & Snacks,UPI,460.0,55,35.0,Late
+ORD1019,2026-01-21,Hyderabad,Madhapur,Zepto,Groceries & Dairy,UPI,910.0,19,15.0,Delivered
+ORD1020,2026-01-22,Bengaluru,Indiranagar,Blinkit,Personal Care,UPI,1340.0,23,0.0,Delivered
